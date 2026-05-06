@@ -1,5 +1,5 @@
 env3/
 __pycache__/
 *.pyc
-input/*.mp4
+*.mp4
 *.pt
