@@ -1,8 +1,5 @@
 env3/
 __pycache__/
 *.pyc
-input/
-output/
-models/
 *.mp4
 *.pt
