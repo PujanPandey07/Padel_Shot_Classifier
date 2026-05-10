@@ -112,9 +112,9 @@ python main.py
 
 ## Demo and Resources
 
-- **Demo Video:** [Google Drive Link]
-- **Model Weights:** [Google Drive Link]
-- **Sample Output JSON:** [Google Drive Link]
+- **Demo Video:** [https://drive.google.com/drive/folders/1Y3FpQNBw_TNkvBTEUerwyxeP4RThPUiQ
+- **Model Weights:** (https://drive.google.com/drive/folders/1Y3FpQNBw_TNkvBTEUerwyxeP4RThPUiQ)
+- **Sample Output JSON:** (https://drive.google.com/drive/folders/1Y3FpQNBw_TNkvBTEUerwyxeP4RThPUiQ)
 
 ---
 
