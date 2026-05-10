@@ -270,7 +270,7 @@ The dataset includes precise ball position annotations per frame. I used these t
 The padel ball is very small from a top down angle and moves fast causing motion blur. Standard YOLO misses it frequently. Color detection picks up false positives. The correct solution is TrackNet trained on padel footage.
 
 **Far side player classification:**
-Players on the far side of the court appear smaller in frame. YOLOv8-pose struggles to extract accurate keypoints for small detections, leading to missed classifications on that half of the court.
+Players on the far side of the court appear smaller in frame. YOLOv8-pose struggles to extract accurate keypoints for small detections, leading to missed classifications or no shot detections on that half of the court.
 
 **Classification accuracy:**
 60% on training data distribution, lower in practice due to the camera angle domain gap described above. The fundamental issue is that no publicly available labeled dataset uses the same top down surveillance camera angle as our test video.

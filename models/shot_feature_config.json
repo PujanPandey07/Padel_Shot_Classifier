@@ -1,0 +1,9 @@
+{
+  "temporal_window": 5,
+  "temporal_features": [
+    "mean",
+    "std",
+    "delta"
+  ],
+  "base_feature_dim": 18
+}
