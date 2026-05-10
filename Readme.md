@@ -85,12 +85,6 @@ python train_classifier.py
 python main.py
 ```
 
----
-
-## Requirements
-
----
-
 ## Output Format
 
 ### JSON
